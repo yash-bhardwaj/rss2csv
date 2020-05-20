@@ -1,6 +1,6 @@
-com\ericsson\gst\rssClient\RssFeedClient.class
-com\ericsson\gst\rssClient\model\ItemTag.class
-com\ericsson\gst\SpringBootAppApplication.class
-com\ericsson\gst\rssClient\model\ChannelTag.class
-com\ericsson\gst\controller\Controller.class
-com\ericsson\gst\rssClient\model\RssTag.class
+com\yash\gst\controller\Controller.class
+com\yash\gst\rssClient\RssFeedClient.class
+com\yash\gst\rssClient\model\ItemTag.class
+com\yash\gst\SpringBootAppApplication.class
+com\yash\gst\rssClient\model\RssTag.class
+com\yash\gst\rssClient\model\ChannelTag.class
