@@ -10,7 +10,7 @@ import com.yash.gst.rssClient.model.RSSFeed;
 public class RssApp {
 
     public static void main ( final String[] args ) throws IOException {
-        final String feedUrl = "http://localhost:8080/rss-feed-converter";
+        final String feedUrl = args[0];//"http://localhost:8080/rss-feed-converter";
         getRssFeed ( feedUrl );
     }
     public static RSSFeed getRssFeed ( final String rssUrl ) throws IOException {
